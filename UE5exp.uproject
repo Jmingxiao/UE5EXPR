@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{1FCD4D1A-4440-BFCC-52DF-FFA5C8AD4ADF}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "UE5exp",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
